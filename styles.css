@@ -1,0 +1,49 @@
+#table1, td {
+    border: 1px solid;
+  }
+  
+#table1 {
+    width: 300px;
+    border-collapse: collapse;
+    margin:50px
+}
+
+#textoCentro {
+    text-align: center;
+}
+
+#textoDireita {
+    text-align: right;
+}
+
+#alturaColuna1 {
+    height: 50px;
+}
+
+#alturaColuna2 {
+    height: 250px;
+}
+
+#alturaColuna3 {
+    height: 30px;
+}
+
+#table3 {
+    height: 250px;
+    width: 250px;
+    border: 1.5px solid;
+    color: rgb(179, 179, 179);
+    border-spacing: 0.07rem;
+    margin: 10px;
+}
+
+.flexbox{
+    display: flex;
+    align-items: center;
+}
+
+.flexbox2{
+    display: flex;
+    padding-left: 30px;
+    flex-grow: 3;
+}
